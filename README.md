@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Prabhat Kumar Singh
+# 👋 Hey, I'm Prabhat Singh
 
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF"/>
 
