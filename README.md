@@ -53,7 +53,7 @@
 📷 **Instagram:** @ig_deadshot3
 
 💼 **LinkedIn:**
-https://www.linkedin.com/in/prabhat-kumar-singh-2656a4a3/
+https://www.linkedin.com/in/sprabhat3/
 
 ---
 
