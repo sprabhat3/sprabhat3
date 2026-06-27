@@ -1,11 +1,60 @@
-- 👋 Hi, I’m @sprabhat3
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently working on ASP.NET, ASP.NET MVC & C#
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me: Insta: @ig_deadshot3
-- Linked In:https://www.linkedin.com/in/prabhat-kumar-singh-2656a4a3/
+# 👋 Hey, I'm Prabhat Kumar Singh
 
-<!---
-sprabhat3/sprabhat3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF"/>
+
+### 🚀 About Me
+
+* 💻 Passionate **Software Developer**
+* 🌱 Currently building projects with **ASP.NET, ASP.NET MVC & C#**
+* 🎯 Interested in **Full Stack Development, Clean UI & Problem Solving**
+* 🤝 Open to collaborating on exciting development projects
+* ⚡ Always learning new technologies and improving my coding skills
+
+---
+
+## 🛠️ Tech Stack
+
+💙 **Backend**
+
+* ASP.NET
+* ASP.NET MVC
+* C#
+* .NET Framework
+
+🗄️ **Database**
+
+* SQL Server
+
+🎨 **Frontend**
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+
+🛠️ **Tools**
+
+* Visual Studio
+* Git
+* GitHub
+
+---
+
+## 📈 Current Focus
+
+✨ Building real-world projects
+✨ Writing clean and scalable code
+✨ Learning modern development practices
+
+---
+
+## 🌐 Connect With Me
+
+📷 **Instagram:** @ig_deadshot3
+
+💼 **LinkedIn:**
+https://www.linkedin.com/in/prabhat-kumar-singh-2656a4a3/
+
+---
+
+> **"Code. Learn. Build. Repeat. 🚀"**
